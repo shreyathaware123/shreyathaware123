@@ -9,7 +9,7 @@ I have worked on analytics projects across diverse domains, including retail, e-
 
 ## Technical Skills
 
-    1. Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+    1. Programming: Python (Pandas, NumPy, Matplotlib)
 
     2. Databases: MySQL(SQL)
 
@@ -24,6 +24,8 @@ I have worked on analytics projects across diverse domains, including retail, e-
     Critical Thinking
 
     Problem-Solving
+
+    Adaptable in nature
 
     Attention to Detail
 
