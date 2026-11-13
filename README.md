@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shreya Thaware 👋<br><br>I am a Business Analyst | Data Analyst with hands-on experience in Excel, SQL, Python, Power BI, Tableau. 
+Hi, I'm Shreya Thaware 👋<br><br> An Analytics Professional with hands-on experience in Excel, SQL, Python, Power BI, Tableau. 
 
 I specialize in data cleaning, validation, dashboard creation, and structured reporting to deliver actionable business insights. 
 
